@@ -4,9 +4,7 @@ API for interpreting Bash code in a Buildroot Linux VM.
 # API
 Example code:
 ```javascript
-  var jsbash = new JSbash();
-  
-  jsbash.init({
+    jsbash.init({
     callback: function(a){
 alert(a);
     },
