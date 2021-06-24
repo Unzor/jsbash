@@ -1,6 +1,12 @@
 # jsbash
 API for interpreting Bash code in a Buildroot Linux VM.
 
+# Installation
+Get from CDN:
+```html
+<script src="https://cdn.jsdelivr.net/gh/Unzor/jsbash/jsbash.js"></script>
+```
+
 # API
 Example code:
 ```javascript
