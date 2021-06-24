@@ -11,7 +11,7 @@ alert(a);
     onReady: function(){
 jsbash.run('echo Hello!');
     },
-    os_messages: false
+    os_messages: true
   });
   ```
   
